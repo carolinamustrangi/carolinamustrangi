@@ -8,14 +8,6 @@
 carolinamustrangi/carolinamustrangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#===================================================================#
-#                                                                   #
-#   MS211 - Cálculo Numérico                                        #
-#   Lista 01 - Questão 06                                           #
-#   Nome: Filipe Lacerda Benevides                                  #
-#   RA: 173494                                                      #
-#                                                                   #
-#===================================================================#
 
 
 using Plots
